@@ -201,6 +201,10 @@ i {
   .about-content {
     flex-direction: column;
   }
+  .about-description h2 {
+    display: flex;
+    justify-content: center;
+  }
 }
 .services {
   background-color: #fff;
